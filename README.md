@@ -20,7 +20,7 @@ FitFuel is a dynamic web application designed for selling supplements online. Bu
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/SUJAL390/ecommercephpsql.git
-   cd fitfuel
+   cd ecommercephpsql
 
     Setup Database:
         Create a MySQL database (`shop_db`).
