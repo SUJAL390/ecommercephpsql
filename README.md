@@ -38,7 +38,7 @@ FitFuel is a dynamic web application designed for selling supplements online. Bu
 
     Run the Application:
         Deploy the project on your local server (e.g., XAMPP, WAMP, or LAMP) or you can use laragon.
-        Navigate to http://localhost/ecommercesql/projects/home.php in your browser.
+        Navigate to http://localhost/ecommercesql/projects/login.php in your browser.
 
 Usage
 
